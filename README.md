@@ -1,4 +1,2 @@
 # clm
-# say[look OR away]
-look
-away
+# commit c23M
