@@ -1,2 +1,4 @@
 # clm
-# [look OR AWAY]
+# say[look OR away]
+look
+away
